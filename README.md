@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-<img src="../../assets/PROJECT-REACT" alt="picture-index">
+<img src="../../assets/PROJECT-REACT.png" alt="picture-index">
 
 # Portifólio Online
 
