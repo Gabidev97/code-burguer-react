@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
-# Portifólio Online
+# React API Project
 
 my first react application, using Axios to connect Api with backend. I also used some react hooks.
 
@@ -34,7 +34,7 @@ Computer Version:
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 🤝 Contribution
-Projeto aberto para ajuda!
+Project open for help!!!
 
 
 ### Support Ou Contact
